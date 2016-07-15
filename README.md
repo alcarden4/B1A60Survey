@@ -1,1 +1,2 @@
-# B1A60Survey
+# Base length 1
+# Angle degree 60
