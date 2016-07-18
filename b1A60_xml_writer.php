@@ -1,6 +1,6 @@
 <?php
 
-	require_once 'KLogger.php';
+	require_once 'b1A60_KLogger.php';
 	
 	$log = new KLogger ( "log.txt" , KLogger::DEBUG );
 	
@@ -12,7 +12,8 @@
 		$time = time(); 
 		
 		$file=$uid . "_" . $time;
-		// $file=$_POST['filename'];
+		// $file=$_POST['filename'];
+
 		if (is_writable($file))
 		{
 			$log->LogError("file is writable");
