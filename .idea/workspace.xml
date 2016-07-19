@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bf31283-8725-4b17-b7ba-ace0d4238553" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/b1A60_TriCompExpHandlerVertexCat.js" afterPath="$PROJECT_DIR$/b1A60_TriCompExpHandlerVertexCat.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/b1A60_TriCompSnapVertexCat.html" afterPath="$PROJECT_DIR$/b1A60_TriCompSnapVertexCat.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/b1A60_logVertexCat.txt" afterPath="$PROJECT_DIR$/b1A60_logVertexCat.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/b1A60_logVertexCatExp.txt" afterPath="$PROJECT_DIR$/b1A60_logVertexCatExp.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/b1A60_processPos.php" afterPath="$PROJECT_DIR$/b1A60_processPos.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/b1A60_processVertexCat.php" afterPath="$PROJECT_DIR$/b1A60_processVertexCat.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/b1A60_xml_writer.php" afterPath="$PROJECT_DIR$/b1A60_xml_writer.php" />
     </list>
     <ignored path="B1A60Survey.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,60 +23,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="b1A60_TriCompSnapVertexCat.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="b1A60_TriCompSnapVertexCat.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/b1A60_TriCompSnapVertexCat.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2790">
-              <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
+            <state relative-caret-position="791">
+              <caret line="85" column="4" selection-start-line="85" selection-start-column="4" selection-end-line="85" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="b1A60_logVertexCat.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/b1A60_logVertexCat.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="b1A60_logVertexCatExp.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/b1A60_logVertexCatExp.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="b1A60_processPos.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/b1A60_processPos.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="b1A60_processVertexCat.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/b1A60_processVertexCat.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="b1A60_TriCompExpHandlerVertexCat.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="b1A60_TriCompExpHandlerVertexCat.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/b1A60_TriCompExpHandlerVertexCat.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2130">
+            <state relative-caret-position="1815">
               <caret line="163" column="47" selection-start-line="163" selection-start-column="47" selection-end-line="163" selection-end-column="47" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -99,13 +53,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/b1A60_TriCompSnapVertexCat.html" />
         <option value="$PROJECT_DIR$/b1A60_logVertexCat.txt" />
         <option value="$PROJECT_DIR$/b1A60_logVertexCatExp.txt" />
         <option value="$PROJECT_DIR$/b1A60_processPos.php" />
         <option value="$PROJECT_DIR$/b1A60_processVertexCat.php" />
         <option value="$PROJECT_DIR$/b1A60_xml_writer.php" />
         <option value="$PROJECT_DIR$/b1A60_TriCompExpHandlerVertexCat.js" />
+        <option value="$PROJECT_DIR$/b1A60_TriCompSnapVertexCat.html" />
       </list>
     </option>
   </component>
@@ -184,12 +138,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1468878716457</updated>
-      <workItem from="1468878717779" duration="2831000" />
+      <workItem from="1468878717779" duration="3915000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2831000" />
+    <option name="totallyTimeSpent" value="3915000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="31" y="23" width="1620" height="987" extended-state="0" />
@@ -261,21 +215,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/b1A60_TriCompSnapVertexCat.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2790">
-          <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/b1A60_TriCompExpHandlerVertexCat.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2130">
+        <state relative-caret-position="1815">
           <caret line="163" column="47" selection-start-line="163" selection-start-column="47" selection-end-line="163" selection-end-column="47" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b1A60_TriCompSnapVertexCat.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="791">
+          <caret line="85" column="4" selection-start-line="85" selection-start-column="4" selection-end-line="85" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
