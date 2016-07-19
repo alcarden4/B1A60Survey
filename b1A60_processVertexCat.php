@@ -6,7 +6,7 @@
 header('Content-Type: text/html; charset=utf-8');
 require_once 'b1A60_KLogger.php';
 
-$log = new KLogger ( "/var/www/html/php/logVertexCat.txt" , KLogger::DEBUG );
+$log = new KLogger ( "/var/www/html/php/b1A60_logVertexCat.txt" , KLogger::DEBUG );
 
 // $pKeys = array_keys($_POST);
 // for($i=0;$i<count($pKeys);$i++){
