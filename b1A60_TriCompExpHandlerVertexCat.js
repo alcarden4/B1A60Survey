@@ -106,15 +106,15 @@ function trainTriangle() {
     // drawing the triangle
     //parameters of the run:
     var LengthAngleSideOrig = 100;
-    var AngleOrig = Math.PI / 3; //Size of angle in radians - 60 deg
+    var AngleOrig = Math.PI / 4; //Size of angle in radians - 45 deg
     var LengthBaseOrig = 600; //Max Base Length
     var TriBaseXStartOrig = 150; //Origin position in the X axis for maximal base length
     var TriBaseXEndOrig = LengthBaseOrig + TriBaseXStartOrig; //End position of base for maximal base length
-    var BaseLengthFactor = 1; //Get the current percent of side length from Global_info.sideRunNum
+    var BaseLengthFactor = .7; //Get the current percent of side length from Global_info.sideRunNum
     var BaseLength = LengthBaseOrig * BaseLengthFactor;
     var TriBaseXStart = TriBaseXStartOrig + 0.5 * (1 - BaseLengthFactor) * LengthBaseOrig;
     var TriBaseXEnd = TriBaseXStart + BaseLength;
-    var TriBaseYPos = 200;
+    var TriBaseYPos = 100;
     var TriSideXLengthIn = LengthAngleSideOrig * BaseLengthFactor;
     var TriSideYLengthUp = Math.tan(AngleOrig) * LengthAngleSideOrig * BaseLengthFactor;
 
@@ -142,18 +142,18 @@ function trainTriangle() {
 
     IncrDist = function () {
         paper2.clear();
-        DrawTestTriangle(TriBaseXStart - 100, TriBaseXEnd + 100, TriBaseYPos, TriSideXLengthIn, TriSideYLengthUp);
+        DrawTestTriangle(TriBaseXStart - 20, TriBaseXEnd + 20, TriBaseYPos, TriSideXLengthIn, TriSideYLengthUp);
 
     };
 
     DecrDist = function () {
         paper2.clear();
-        DrawTestTriangle(TriBaseXStart, TriBaseXEnd - 50, TriBaseYPos, TriSideXLengthIn, TriSideYLengthUp);
+        DrawTestTriangle(TriBaseXStart + 20, TriBaseXEnd - 20, TriBaseYPos, TriSideXLengthIn, TriSideYLengthUp);
     };
 
     IncrAng = function () {
         paper2.clear();
-        TriSideYLengthUp = Math.tan(Math.PI / 2.5) * LengthAngleSideOrig * BaseLengthFactor;
+        TriSideYLengthUp = Math.tan(Math.PI / 3) * LengthAngleSideOrig * BaseLengthFactor;
         DrawTestTriangle(TriBaseXStart, TriBaseXEnd, TriBaseYPos, TriSideXLengthIn, TriSideYLengthUp);
         TriSideYLengthUp = Math.tan(AngleOrig) * LengthAngleSideOrig * BaseLengthFactor;
 
@@ -161,7 +161,7 @@ function trainTriangle() {
 
     DecrAng = function () {
         paper2.clear();
-        TriSideYLengthUp = Math.tan(Math.PI / 4) * LengthAngleSideOrig * BaseLengthFactor;
+        TriSideYLengthUp = Math.tan(Math.PI / 6) * LengthAngleSideOrig * BaseLengthFactor;
         DrawTestTriangle(TriBaseXStart, TriBaseXEnd, TriBaseYPos, TriSideXLengthIn, TriSideYLengthUp);
         TriSideYLengthUp = Math.tan(AngleOrig) * LengthAngleSideOrig * BaseLengthFactor;
     };
