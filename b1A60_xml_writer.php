@@ -1,6 +1,6 @@
 <?php
 
-	require_once 'b1A60_KLogger.php';
+	require_once 'KLogger.php';
 	
 	$log = new KLogger ( "log.txt" , KLogger::DEBUG );
 	
