@@ -24,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="b1A60_TriCompExpHandlerVertexCat.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="b1A60_TriCompExpHandlerVertexCat.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/b1A60_TriCompExpHandlerVertexCat.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="594" column="42" selection-start-line="594" selection-start-column="42" selection-end-line="594" selection-end-column="42" />
+            <state relative-caret-position="302">
+              <caret line="593" column="96" selection-start-line="593" selection-start-column="96" selection-end-line="593" selection-end-column="96" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -36,11 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="b1A60_TriCompSnapVertexCat.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="b1A60_TriCompSnapVertexCat.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/b1A60_TriCompSnapVertexCat.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="247" column="0" selection-start-line="247" selection-start-column="0" selection-end-line="247" selection-end-column="6" />
+            <state relative-caret-position="506">
+              <caret line="264" column="0" selection-start-line="264" selection-start-column="0" selection-end-line="264" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -148,12 +148,12 @@
       <workItem from="1469634774869" duration="221000" />
       <workItem from="1469717429235" duration="310000" />
       <workItem from="1469722446734" duration="793000" />
-      <workItem from="1469826935245" duration="1895000" />
+      <workItem from="1469826935245" duration="2425000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13797000" />
+    <option name="totallyTimeSpent" value="14327000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="12" y="23" width="1620" height="987" extended-state="0" />
@@ -341,21 +341,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/b1A60_TriCompExpHandlerVertexCat.js">
+    <entry file="file://$PROJECT_DIR$/b1A60_TriCompSnapVertexCat.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="594" column="42" selection-start-line="594" selection-start-column="42" selection-end-line="594" selection-end-column="42" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="506">
+          <caret line="264" column="0" selection-start-line="264" selection-start-column="0" selection-end-line="264" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/b1A60_TriCompSnapVertexCat.html">
+    <entry file="file://$PROJECT_DIR$/b1A60_TriCompExpHandlerVertexCat.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="247" column="0" selection-start-line="247" selection-start-column="0" selection-end-line="247" selection-end-column="6" />
-          <folding />
+        <state relative-caret-position="302">
+          <caret line="593" column="96" selection-start-line="593" selection-start-column="96" selection-end-line="593" selection-end-column="96" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
