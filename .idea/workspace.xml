@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bf31283-8725-4b17-b7ba-ace0d4238553" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/b1A60_TriCompExpHandlerVertexCat.js" afterPath="$PROJECT_DIR$/b1A60_TriCompExpHandlerVertexCat.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/b1A60_TriCompSnapVertexCat.html" afterPath="$PROJECT_DIR$/b1A60_TriCompSnapVertexCat.html" />
     </list>
@@ -28,8 +27,8 @@
       <file leaf-file-name="b1A60_TriCompExpHandlerVertexCat.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/b1A60_TriCompExpHandlerVertexCat.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="282" column="25" selection-start-line="282" selection-start-column="25" selection-end-line="282" selection-end-column="25" />
+            <state relative-caret-position="317">
+              <caret line="594" column="42" selection-start-line="594" selection-start-column="42" selection-end-line="594" selection-end-column="42" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -40,8 +39,8 @@
       <file leaf-file-name="b1A60_TriCompSnapVertexCat.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/b1A60_TriCompSnapVertexCat.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="671">
-              <caret line="265" column="6" selection-start-line="265" selection-start-column="6" selection-end-line="265" selection-end-column="6" />
+            <state relative-caret-position="251">
+              <caret line="247" column="0" selection-start-line="247" selection-start-column="0" selection-end-line="247" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -61,8 +60,8 @@
         <option value="$PROJECT_DIR$/b1A60_processVertexCat.php" />
         <option value="$PROJECT_DIR$/b1A60_processPos.php" />
         <option value="$PROJECT_DIR$/b1A60_xml_writer.php" />
-        <option value="$PROJECT_DIR$/b1A60_TriCompExpHandlerVertexCat.js" />
         <option value="$PROJECT_DIR$/b1A60_TriCompSnapVertexCat.html" />
+        <option value="$PROJECT_DIR$/b1A60_TriCompExpHandlerVertexCat.js" />
       </list>
     </option>
   </component>
@@ -73,7 +72,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="31" />
+    <option name="x" value="12" />
     <option name="y" value="23" />
     <option name="width" value="1620" />
     <option name="height" value="987" />
@@ -149,15 +148,15 @@
       <workItem from="1469634774869" duration="221000" />
       <workItem from="1469717429235" duration="310000" />
       <workItem from="1469722446734" duration="793000" />
-      <workItem from="1469826935245" duration="117000" />
+      <workItem from="1469826935245" duration="1895000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12019000" />
+    <option name="totallyTimeSpent" value="13797000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="31" y="23" width="1620" height="987" extended-state="0" />
+    <frame x="12" y="23" width="1620" height="987" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -344,8 +343,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/b1A60_TriCompExpHandlerVertexCat.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="282" column="25" selection-start-line="282" selection-start-column="25" selection-end-line="282" selection-end-column="25" />
+        <state relative-caret-position="317">
+          <caret line="594" column="42" selection-start-line="594" selection-start-column="42" selection-end-line="594" selection-end-column="42" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -354,8 +353,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/b1A60_TriCompSnapVertexCat.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="671">
-          <caret line="265" column="6" selection-start-line="265" selection-start-column="6" selection-end-line="265" selection-end-column="6" />
+        <state relative-caret-position="251">
+          <caret line="247" column="0" selection-start-line="247" selection-start-column="0" selection-end-line="247" selection-end-column="6" />
           <folding />
         </state>
       </provider>
