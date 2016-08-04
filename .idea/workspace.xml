@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bf31283-8725-4b17-b7ba-ace0d4238553" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/b1A60_TriCompExpHandlerVertexCat.js" afterPath="$PROJECT_DIR$/b1A60_TriCompExpHandlerVertexCat.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/b1A60_TriCompSnapVertexCat.html" afterPath="$PROJECT_DIR$/b1A60_TriCompSnapVertexCat.html" />
     </list>
     <ignored path="B1A60Survey.iws" />
@@ -39,8 +38,8 @@
       <file leaf-file-name="b1A60_TriCompSnapVertexCat.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/b1A60_TriCompSnapVertexCat.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="264" column="0" selection-start-line="264" selection-start-column="0" selection-end-line="264" selection-end-column="0" />
+            <state relative-caret-position="836">
+              <caret line="339" column="0" selection-start-line="339" selection-start-column="0" selection-end-line="339" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -60,8 +59,8 @@
         <option value="$PROJECT_DIR$/b1A60_processVertexCat.php" />
         <option value="$PROJECT_DIR$/b1A60_processPos.php" />
         <option value="$PROJECT_DIR$/b1A60_xml_writer.php" />
-        <option value="$PROJECT_DIR$/b1A60_TriCompSnapVertexCat.html" />
         <option value="$PROJECT_DIR$/b1A60_TriCompExpHandlerVertexCat.js" />
+        <option value="$PROJECT_DIR$/b1A60_TriCompSnapVertexCat.html" />
       </list>
     </option>
   </component>
@@ -148,12 +147,12 @@
       <workItem from="1469634774869" duration="221000" />
       <workItem from="1469717429235" duration="310000" />
       <workItem from="1469722446734" duration="793000" />
-      <workItem from="1469826935245" duration="2425000" />
+      <workItem from="1469826935245" duration="3303000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14327000" />
+    <option name="totallyTimeSpent" value="15205000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="12" y="23" width="1620" height="987" extended-state="0" />
@@ -343,8 +342,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/b1A60_TriCompSnapVertexCat.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="264" column="0" selection-start-line="264" selection-start-column="0" selection-end-line="264" selection-end-column="0" />
+        <state relative-caret-position="836">
+          <caret line="339" column="0" selection-start-line="339" selection-start-column="0" selection-end-line="339" selection-end-column="0" />
           <folding />
         </state>
       </provider>
