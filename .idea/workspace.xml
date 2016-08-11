@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9bf31283-8725-4b17-b7ba-ace0d4238553" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/b1A60_TriCompExpHandlerVertexCat.js" afterPath="$PROJECT_DIR$/b1A60_TriCompExpHandlerVertexCat.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/b1A60_TriCompSnapVertexCat.html" afterPath="$PROJECT_DIR$/b1A60_TriCompSnapVertexCat.html" />
     </list>
     <ignored path="B1A60Survey.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,8 +26,8 @@
       <file leaf-file-name="b1A60_TriCompExpHandlerVertexCat.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/b1A60_TriCompExpHandlerVertexCat.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="662">
-              <caret line="266" column="4" selection-start-line="266" selection-start-column="4" selection-end-line="266" selection-end-column="4" />
+            <state relative-caret-position="587">
+              <caret line="357" column="74" selection-start-line="329" selection-start-column="3" selection-end-line="357" selection-end-column="74" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -149,12 +148,12 @@
       <workItem from="1469634774869" duration="221000" />
       <workItem from="1469717429235" duration="310000" />
       <workItem from="1469722446734" duration="793000" />
-      <workItem from="1469826935245" duration="15099000" />
+      <workItem from="1469826935245" duration="19679000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27001000" />
+    <option name="totallyTimeSpent" value="31581000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="83" y="28" width="1620" height="987" extended-state="0" />
@@ -360,8 +359,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/b1A60_TriCompExpHandlerVertexCat.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="662">
-          <caret line="266" column="4" selection-start-line="266" selection-start-column="4" selection-end-line="266" selection-end-column="4" />
+        <state relative-caret-position="587">
+          <caret line="357" column="74" selection-start-line="329" selection-start-column="3" selection-end-line="357" selection-end-column="74" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
